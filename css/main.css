@@ -1,4 +1,4 @@
-* { 
+* {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -8,16 +8,21 @@ body {
 	font-family: "Droid Serif", Georgia, serif;
 	font-size: 16px;
 }
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Varela Round", Arial, sans-serif;
-    font-weight: 400;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Varela Round", Arial, sans-serif;
+	font-weight: 400;
 }
 a {
-    color: #3498db;
-    text-decoration: none;
+	color: #3498db;
+	text-decoration: none;
 }
 a:hover {
-    color: #2a84bf;
+	color: #2a84bf;
 }
 img {
 	max-width: 100%;
@@ -26,20 +31,20 @@ img {
 
 /* Header */
 .blog-header {
-	padding: 30px 15px;
-    background-color: #333;
+	padding: 8px 15px;
+	background-color: #333;
 }
 
 /* Name */
 .blog-name {
 	font-family: "Varela Round", Arial, sans-serif;
-	font-weight: 400;
-	font-size: 42px;
+	font-weight: 200;
+	font-size: 30px;
 	text-transform: uppercase;
 	text-align: center;
 }
 .blog-name a {
-    color: #fff;
+	color: #fff;
 }
 
 /* Search */
@@ -49,18 +54,18 @@ img {
 	color: #555;
 	border: 0;
 	padding: 0 10px;
-	border-radius: 30px;
+	border-radius: 10px;
 }
 .search-form input::-webkit-input-placeholder {
 	color: #555;
 }
 .search-form input:-moz-placeholder {
-	color: #555;  
+	color: #555;
 }
 .search-form input::-moz-placeholder {
-	color: #555;  
+	color: #555;
 }
-.search-form input:-ms-input-placeholder {  
+.search-form input:-ms-input-placeholder {
 	color: #555;
 }
 .search-form input:focus {
@@ -85,11 +90,11 @@ img {
 .blog-menu a {
 	color: #7f8c8d;
 	font-size: 18px;
-    text-transform: uppercase;
-    font-family: "Varela Round", Arial, sans-serif;
+	text-transform: uppercase;
+	font-family: "Varela Round", Arial, sans-serif;
 }
 .blog-menu a:hover {
-    color: #3498db;
+	color: #3498db;
 }
 
 /* Post */
@@ -169,7 +174,6 @@ img {
 	color: #7f8c8d;
 	padding: 15px 30px;
 	border: 1px solid #bdc3c7;
-	
 }
 .blog-pagination a:hover {
 	color: #fff;
