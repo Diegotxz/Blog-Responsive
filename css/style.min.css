@@ -120,7 +120,7 @@ h1,h2,h3,h4,h5,h6{font-family:"Varela Round",Arial,sans-serif;font-weight:400}
 a{color:#3498db;text-decoration:none}
 a:hover{color:#2a84bf}
 img{max-width:100%;height:auto}
-.blog-header{padding:8px 15px;background-color:#333}
+.blog-header{padding:10px 15px;background-color:#333}
 .blog-name{font-family:"Varela Round",Arial,sans-serif;font-weight:200;font-size:30px;text-transform:uppercase;text-align:center}
 .blog-name a{color:#fff}
 .search-form input{height:36px;background-color:#999;color:#555;border:0;padding:0 10px;border-radius:10px}
